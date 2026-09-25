@@ -17,10 +17,6 @@ Building complete web applications from the ground up — frontend, backend, and
 
 <br>
 
-</div>
-
-<br>
-
 ## About
 
 I'm a Computer Engineering graduate now focused on full-stack web
